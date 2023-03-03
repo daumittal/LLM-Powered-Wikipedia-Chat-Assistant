@@ -39,6 +39,8 @@ The LLM-Powered Wikipedia Chat Assistant is a robust conversational AI tool desi
 
 The assistant integrates multiple technologies to ensure a seamless experience:
 
+<img alt="img_2.png" height="300" src="img_2.png" width="600"/>
+
 ### Frontend
 - Built with `React.js` for a dynamic and responsive interface.
 - Features a clean UI for effortless navigation and query input.
@@ -58,4 +60,3 @@ The assistant integrates multiple technologies to ensure a seamless experience:
 - Deployed on platforms like `Heroku` or `AWS` for accessibility.
 - Can be containerized using `Docker` for easy portability.
 
-<img alt="img_2.png" height="300" src="img_2.png" width="600"/>
